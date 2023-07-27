@@ -1,1 +1,1 @@
-This is the README.md file in the root directory
+This is the edited README.md file in the root directory from github interface.
